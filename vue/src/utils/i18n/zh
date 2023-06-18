@@ -1,0 +1,6 @@
+// 创建文件zh/index.js
+const zh = {
+  name: '登录',
+  re:'注册'
+}
+export default zh

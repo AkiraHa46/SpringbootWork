@@ -1,0 +1,6 @@
+// 创建文件en/index.js
+const en = {
+  name: 'Login',
+  re:'register'
+}
+export default en
